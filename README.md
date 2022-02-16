@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am the princple engineer and lead on back end team for [Kiva Protocol](https://kivaprotocol.com/).  
+
+I am also co-chair for AnonCredentials W3C standard group and active maintainer on [hyperledger technologies](https://wiki.hyperledger.org/).  
+
+
 <!--
 **matt-raffel-kiva/matt-raffel-kiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
