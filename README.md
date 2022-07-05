@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am the princple engineer and lead on back end team for [Kiva Protocol](https://kivaprotocol.com/).  
+I am the princple engineer and lead on back end team for [Kiva](https://www.kiva.com/).  
 
-I am also co-chair for [AnonCredentials W3C standard group](https://github.com/AnonCreds-WG) and active maintainer on [hyperledger technologies](https://wiki.hyperledger.org/).  
+I served as co-chair for [AnonCredentials W3C standard group](https://github.com/AnonCreds-WG) in 2022.
 
 
 <!--
